@@ -114,7 +114,3 @@ $$(document).on('page:init', '.page[data-name="page7"]',
         console.log(document.getElementById("myAudio"));
 
     })
-
-
-//i.gifer.com/1434.gif 
-//
